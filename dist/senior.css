@@ -16,3 +16,6 @@ main:focus,main:focus-visible{outline:none}
 
 #main:focus,#main:focus-visible{outline:none}
 .diagram-building{top:calc(50% - 65px)}
+:root.large-type{font-size:28px}
+body.big{font-size:1rem}
+@media(max-width:720px){:root.large-type{font-size:26px}}
