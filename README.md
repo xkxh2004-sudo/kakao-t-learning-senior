@@ -1,4 +1,10 @@
-# 내 손안의 택시
+# 내 손안의 택시 큰 화면 복습판
+
+원본 저장소를 독립적으로 복사하고 형성평가 피드백을 반영한 수정본입니다.
+
+- 원본: https://github.com/xkxh2004-sudo/kakao-t-learning
+- 수정본: https://xkxh2004-sudo.github.io/kakao-t-learning-senior/
+- 수정 내역: [FEEDBACK.md](FEEDBACK.md)
 
 고령 학습자를 위한 한국어 카카오T 온라인 학습 모듈. 김영제의 DD3와 제공 교재의 화면을 바탕으로 제작했습니다.
 
